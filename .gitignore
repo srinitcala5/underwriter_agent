@@ -1,0 +1,7 @@
+venv/
+.env
+__pychache__/
+*.pyc
+.DS_Store
+extraction_warnings.log
+.vscode/

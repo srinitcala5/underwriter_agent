@@ -1,0 +1,108 @@
+{
+  "applicant": {
+    "name": "Mr John Smith",
+    "dob": "21-08-1982",
+    "age": 43,
+    "gender": "Male",
+    "state": "NSW",
+    "occupation": "Administration manager",
+    "occupation_class": "White Collar",
+    "smoker": true,
+    "bmi": 26.4
+  },
+  "applied_for_cover": {
+    "life": 1000000,
+    "tpd": 500000,
+    "trauma": 200000,
+    "income_protection": 5000
+  },
+  "existing_cover": {
+    "description": "Life insurance with other insurer, amount $300,000, intending to replace $300,000"
+  },
+  "modified_terms": null,
+  "claims_history": "No previous claims or intended claims for disability, trauma insurance, workers compensation, veterans' affairs or sickness benefit",
+  "residency": "Australian permanent resident visa, currently living in Australia",
+  "occupation": {
+    "primary": "Administration manager",
+    "secondary": "Bartender"
+  },
+  "income": {
+    "primary": 85000,
+    "secondary": 15000,
+    "total": 100000
+  },
+  "travel": {
+    "planned": true,
+    "destination": "Portugal",
+    "duration": "4 months",
+    "departure": "17-06-2026",
+    "leave_start": "17-04-2026"
+  },
+  "recreation": [
+    "Scuba diving (formally trained and qualified, does not dive unaccompanied, dives deeper than 40 meters)",
+    "Bicycle racing (professional level)"
+  ],
+  "alcohol": {
+    "drinks_per_week": 12,
+    "counselling_history": true,
+    "hospitalised": false
+  },
+  "drug_use": "No use of cannabis or other illegal drugs in past 10 years",
+  "smoking": {
+    "smoker": true,
+    "cigarettes_per_day": "Less than 10"
+  },
+  "bmi": {
+    "height_cm": 174,
+    "weight_kg": 80,
+    "bmi": 26.4,
+    "category": "Overweight"
+  },
+  "medical_history": {
+    "cancer": {
+      "types": [
+        "Melanoma",
+        "Other skin cancer",
+        "Pre-cancer or carcinoma-in-situ (CIS)",
+        "Breast cancer"
+      ],
+      "details": {
+        "melanoma_removed": 2019,
+        "melanoma_recurrence": false,
+        "pre_cancer_treatment": "No chemotherapy or radiotherapy, last treatment more than 12 months ago, now clear with no further treatment required",
+        "current_cancer": false,
+        "undergoing_treatment": false
+      }
+    },
+    "high_cholesterol": {
+      "diagnosed": true,
+      "last_reading": 4.2,
+      "treatment": "Prescribed cholesterol-lowering medication"
+    },
+    "alcohol_related_disorder": {
+      "counselling": true,
+      "hospitalisation": false
+    },
+    "other_conditions": {
+      "headaches_or_migraines": true,
+      "no_diabetes": true,
+      "no_breathing_or_lung_conditions": true,
+      "no_heart_or_brain_conditions": true
+    }
+  },
+  "family_history": {},
+  "gp_details": {
+    "practice": "Dr test health",
+    "address": "200 Smith street, Haymarket, NSW, 2000",
+    "patient_duration": "15 years"
+  },
+  "red_flags": [
+    "History of multiple cancers including melanoma, other skin cancers, pre-cancer CIS, and breast cancer",
+    "Smoker",
+    "High cholesterol on medication",
+    "Alcohol counselling history",
+    "Professional bicycle racing",
+    "Planned extended overseas travel for 4 months"
+  ],
+  "disclosure_cross_check": []
+}

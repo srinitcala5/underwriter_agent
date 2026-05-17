@@ -1,0 +1,11 @@
+#OpenAI
+OPENAI_API_KEY= OpenAI API Key
+
+#Model Setting
+OPENAI_MODEL=gpt-4.1-mini
+EMBEDDING_MODEL= text-embedding-3-small
+OPENAI_BASE_URL=https://api.openai.com/v1
+
+# App Settings
+Pdf_Path= Input_Sample.pdf
+Output_Path= Output_Sample.txt
